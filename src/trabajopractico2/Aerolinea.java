@@ -6,4 +6,12 @@ public class Aerolinea {
     public void operarVuelos (){
         
     }
+
+    public Integer getID() {
+        return ID;
+    }
+
+    public void setID(Integer ID) {
+        this.ID = ID;
+    }
 }
