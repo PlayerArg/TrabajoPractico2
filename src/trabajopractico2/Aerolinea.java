@@ -1,8 +1,10 @@
 package trabajopractico2;
 
+import java.util.ArrayList;
+
 public class Aerolinea {
     private Integer ID;
-    private ArrayList <Vuelo> Vuelos;
+    private ArrayList <Vuelo> vuelos;
     
     public void operarVuelos (){
         
